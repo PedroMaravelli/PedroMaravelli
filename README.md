@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou estudando atualmente desenvolvimento web full-stack
-- 🌱 Sei programar em Python e JavaScript
+- 🌱 Sei programar em Python, JavaScript, Html e CSS 
 - 📫 Meu email para contato phmaravelli@gmail.com
 -->
 
