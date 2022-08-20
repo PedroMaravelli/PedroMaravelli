@@ -1,8 +1,7 @@
 ### Olá! eu sou o Pedro Maravelli 👋
 
 
-- 🔭 Estou estudando atualmente desenvolvimento web full-stack
-- 🌱 Sei programar em Python, JavaScript, Html e CSS 
+- 🔭 Estou estudando atualmente desenvolvimento web fullStack na Digital House
 - 📫 Meu email para contato phmaravelli@gmail.com
 -->
 
