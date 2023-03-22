@@ -1,7 +1,7 @@
 ### Olá! eu sou o Pedro Maravelli 👋
 
 
-- 🔭 Sou desenvolvolvedor web Full Stack 
+- 🔭 Sou desenvolvolvedor Web e Mobile Full Stack 
 - 📫 Meu email para contato phmaravelli@gmail.com
 -->
 
