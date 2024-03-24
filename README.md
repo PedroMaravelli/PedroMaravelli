@@ -3,6 +3,7 @@
 
 - 🔭 Sou desenvolvolvedor Web e Mobile Full Stack 
 - 📫 Meu email para contato phmaravelli@gmail.com
+- 📚 Cursando Analise e desenvolvimento de sistemas na Fsa
 -->
 
 <div align="center">
