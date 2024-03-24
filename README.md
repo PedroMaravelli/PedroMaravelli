@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-  <a href="https://github.com/PedroMaravelli">
+  <a href="https://beacons.ia/PedroMaravelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMaravelli&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMaravelli&layout=compact&langs_count=7&theme=white"/>
 </div>
