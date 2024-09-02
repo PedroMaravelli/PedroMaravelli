@@ -46,6 +46,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PedroMaravelli/PedroMaravelli/output/snake.svg" alt="Snake animation" />
 
 ###
