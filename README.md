@@ -1,4 +1,4 @@
-<p align="left">Hey, I'm Pedro Maravelli<br><br>🔭 I'm a Full Stack Web and Mobile Developer<br><br>📫 My contact email phmaravelli@gmail.com<br><br>📚 Studying Systems Analysis and Development at Fsa<br>🏢 I'm currently working as a developer at IPT </p>
+<p align="left">Hey, I'm Pedro Maravelli<br><br>🔭 I'm a Full Stack Web and Mobile Developer<br><br>📫 My contact email phmaravelli@gmail.com<br><br>📚 Studying Systems Analysis and Development at Fsa<br><br>🏢 I'm currently working as a developer at IPT </p>
 
 ###
 <div align="center">
